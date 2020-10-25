@@ -1,0 +1,22 @@
+body {
+    background-color:#bfdcae;
+  }
+  hr {
+    border-top: 4px dotted  #f1f1e8;
+    width: 20%;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+  }
+
+  h1, h3 {
+      color: #206a5d;
+  }
+
+  .center{
+      text-align: center;
+  }
+
+  label{
+      display: block;
+  }
